@@ -7,20 +7,20 @@ you have to compile your files with SFML.
 
 ### Requirement
 
-You will need SFML to be able to draw the window
+You will need SFML to be able to draw the window :
 
 ```sudo apt-get install libsfml-dev```
 
-As well as Eigen for some algebra stuff
+As well as Eigen for some algebra stuff :
 
 ```sudo apt-get install libeigen3-dev```
 
 ### Running
 
-Compile with SFML with
+Compile with SFML with :
 
 ```g++ raycaster.o -o raycaster -lsfml-graphics -lsfml-window -lsfml-system```
 
-You can just execute it with
+You can just execute it with :
 
 ```./raycaster```
