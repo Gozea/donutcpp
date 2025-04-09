@@ -21,6 +21,6 @@ Compile with SFML with :
 
 ```g++ raycaster.o -o raycaster -lsfml-graphics -lsfml-window -lsfml-system```
 
-You can just execute it with :
+Once compiled, you can execute it with :
 
 ```./raycaster```
